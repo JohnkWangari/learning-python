@@ -1,2 +1,2 @@
-tuple = ('karani',2)
+tuple = ("wangari",2)
 print(tuple)
