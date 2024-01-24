@@ -7,3 +7,4 @@ dictionary = {'name': 'Karani',
 print(dictionary)
 tuple = ('karani',2)
 print(tuple)
+print("hello world")
